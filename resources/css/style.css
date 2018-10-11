@@ -3,7 +3,7 @@ body {
   text-align: center;
 }
 
-.header {
+ .header  {
   font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
@@ -20,9 +20,10 @@ h2 {
   font-family: Verdana;
   font-weight: 300;
   font-size: 42px;
+  color: white;
 }
 
-p .ad {
+ .inf p {
   font-family: Verdana;
   font-size: 21px;
   color: gray;
@@ -31,4 +32,5 @@ p .ad {
 .footer {
   text-align: right;
   color: gray;
+  
 }
